@@ -1,14 +1,9 @@
 
 > Diese Seite bei [https://cguide112.github.io/smiley-frowney/](https://cguide112.github.io/smiley-frowney/) öffnen
 
-## Als Erweiterung verwenden
+## Tutorial
 
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
-
-* öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/cguide112/smiley-frowney** suchen und importieren
+* [tutorial](/tutorial)
 
 ## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/cguide112/smiley-frowney/workflows/MakeCode/badge.svg)
 
