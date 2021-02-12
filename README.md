@@ -3,7 +3,7 @@
 
 ## Tutorial
 
-* [tutorial](/tutorial)
+* [tutorial](/smiley-frowney/tutorial)
 
 ## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/cguide112/smiley-frowney/workflows/MakeCode/badge.svg)
 
