@@ -6,7 +6,7 @@ Add code to display a smiley
 
 ```blocks
 
-basic.showString(":)")
+basic.showString("Chow is here")
 ```
 
 ## Step 2
@@ -14,8 +14,8 @@ basic.showString(":)")
 Add another block to display more text.
 
 ```blocks
-basic.showString(":)")
-basic.showString(":(")
+basic.showString("Chow happy")
+basic.showString("Chow unhappy")
 ```
 ## Step 3
 
